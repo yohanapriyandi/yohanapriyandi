@@ -18,7 +18,7 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/my-resume-profile.appspot.com/o/yohan%20apriyandi.pdf?alt=media&token=25fbb127-87f6-4310-8e94-2b7abf9ef7c3)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019b8334516bb13c64)
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yohanapriyandi/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yohanapriyandi)

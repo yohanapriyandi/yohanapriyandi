@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in software engineering
 
-- 🌱 I’m currently learning [**GO**](https://go.dev/) -  [**Python**](https://www.python.org/)
+- 🌱 I’m currently learning [**GO**](https://go.dev/) -  [**Python**](https://www.python.org/) - [**JAVA**](https://www.java.com/en/)
 
 - 💞️ I’m looking to working remotely and collaborate with another people in the world
 

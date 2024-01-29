@@ -1,19 +1,19 @@
 <h1 align="center">Assalamu'alaikum 👋, I'm Yohan Apriyandi</h1>
 <h3 align="center">Muslim, Coder & Father.</h3>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,mysql,nodejs,js,nginx,graphql,heroku,git,github,bash,powershell,docker,visualstudio,vscode,bootstrap&perline=18" alt="Tech Stack" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=php,laravel,go,mysql,nodejs,js,nginx,graphql,heroku,git,github,bash,powershell,docker,visualstudio,vscode,bootstrap&perline=18" alt="Tech Stack" /> </p>
 
-- 🗣 Languages: [**PHP** ❤️](https://www.php.net/) - [**C#** ❤️](https://learn.microsoft.com/en-us/dotnet/csharp/) - [**Javascript** ❤️](https://www.javascript.com/)
+- 🗣 Languages: [**PHP** ❤️](https://www.php.net/) - [**Javascript** ❤️](https://www.javascript.com/)
 
 - 📫 You can reach me at yohanapriyandi89@gmail.com
 
-- ⚡️ I work as Fulltime Freelancer
+- ⚡️ I work as full-time freelancer
 
 - 👀 I’m interested in software engineering
 
 - 🌱 I’m currently learning [**GO**](https://go.dev/) - [**JAVA**](https://www.java.com/en/)
 
-- 💞️ I’m looking to working remotely and collaborate with another people in the world
+- 💞️ I’m looking to work remotely and collaborate with amazing people all over in the world
 
 ## 🔗 Links
 

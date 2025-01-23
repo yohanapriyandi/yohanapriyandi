@@ -11,8 +11,8 @@
 
 - 👀 I’m interested in software development
 
-- 🌱 I’m currently learning [**GO**](https://go.dev/) - [**JAVA**](https://www.java.com/en/)
-
+- 🌱 I’m currently learning [**GO**](https://go.dev/)
+  
 - 💞️ I’m looking to work remotely and collaborate with amazing people all over in the world
 
 ## 🔗 Links
